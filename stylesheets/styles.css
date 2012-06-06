@@ -105,6 +105,12 @@ header {
   position:fixed;
 }
 
+header img.avatar {
+  width:170px;
+  height:163px;
+  margin: 0px 0px 20px 0px; /* top right bottom left */
+}
+
 header h3 {
   margin-left:10px;
 }
