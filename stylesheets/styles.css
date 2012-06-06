@@ -71,8 +71,8 @@ pre {
 }
 
 pre.gpgkey {
-  background: inherit;
-  border:0px;
+  font-size:8px;
+  width: 320px;
 }
 
 table {
@@ -129,16 +129,21 @@ strong {
 
 section {
   margin-left:340px;
+  margin-right:80px;
   float:right;
   padding-bottom:50px;
 }
 
-section h3.first {
+section h3.first, section h2.first {
   margin-top:0px;
 }
 
-section h3.not-first {
+section h3.not-first, section h2.not-first {
   margin-top:60px;
+}
+
+section li {
+  margin-bottom:20px;
 }
 
 small {
@@ -239,6 +244,7 @@ jQuery Picasa Gallery Styling
     text-align: left;
     border: 0px solid black;
     position: relative;
+    min-width: 720px;
 }
 .picasagallery_header {
     clear: both;
