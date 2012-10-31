@@ -33,14 +33,14 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color:#39c;
+  color:#1C5AC4;
   font-weight:400;
   text-decoration:none;
 }
 
 a small {
   font-size:11px;
-  color:#777;
+  color:#1C5AC4;
   margin-top:-0.6em;
   display:block;
 }
@@ -296,7 +296,7 @@ jQuery Picasa Gallery Styling
     cursor: pointer;
     margin: 10px 10px 10px 5px; /* top right bottom left */
     font-size: 14pt;
-    color: blue;
+    color: #1C5AC4;
     text-decoration: underline;
 }
 .picasagallery_title {
