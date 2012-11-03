@@ -144,12 +144,16 @@ header ul {
   padding:0;
 }
 
+header ul.social-links {
+  width: 170px;
+}
+
 header li {
   float:left;
   margin-left:10px;
   margin-top:0px;
-  margin-right:20px;
-  margin-bottom:20px;
+  margin-right:0px;
+  margin-bottom:10px;
 }
 
 contact li {
