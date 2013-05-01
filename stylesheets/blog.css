@@ -1,0 +1,33 @@
+.blog-post {
+    font-size: 16px;
+    line-height: 25px;
+}
+.blog-post-header {
+    margin: 0 0 5px;
+}
+.blog-post-subheader {
+    margin-left: 5px;
+}
+.muted {
+    color: #999999;
+}
+.blog-post-date {
+}
+.blog-post-author {
+    margin-left: 20px;
+}
+.blog-post-author img {
+    position: relative;
+    top: -3px;
+}
+.img-rounded {
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    border-radius: 6px;
+    width: auto 9;
+    height: auto;
+    max-width: 100%;
+    vertical-align: middle;
+    border: 0;
+    -ms-interpolation-mode: bicubic;
+}
