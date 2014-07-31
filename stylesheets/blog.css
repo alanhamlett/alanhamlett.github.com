@@ -3,6 +3,9 @@
     line-height: 25px;
     margin-bottom: 200px;
 }
+.blog-post a:focus {
+  outline: 0;
+}
 .blog-post-header {
     margin: 0 0 5px;
 }
