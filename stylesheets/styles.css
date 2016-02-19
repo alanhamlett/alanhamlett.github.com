@@ -124,9 +124,27 @@ img {
 }
 
 header {
-  width:270px;
-  float:left;
-  position:fixed;
+  width: 270px;
+  float: left;
+  position: fixed;
+}
+
+@media (max-width: 768px) {
+  header {
+    position: relative;
+    float: none;
+    clear: both;
+    width: 100%;
+    display: inline-block;
+  }
+  header img.avatar {
+    float: left;
+    padding-right: 10px;
+  }
+  header h1 {
+    display: inline;
+    vertical-align: top;
+  }
 }
 
 header img.avatar {
@@ -156,12 +174,8 @@ header li {
   margin-bottom:10px;
 }
 
-contact li {
-  font-size:14px;
-  margin-left:0px;
-  margin-top:0px;
-  margin-right:20px;
-  margin-bottom:10px;
+contact {
+  font-size:16px;
 }
 
 barcode img {
@@ -188,11 +202,20 @@ section h3.first, section h2.first {
 }
 
 section h3.not-first, section h2.not-first {
-  margin-top:120px;
+  margin-top:80px;
 }
 
 section li {
   margin-bottom:20px;
+}
+
+@media (max-width: 768px) {
+  section {
+    margin-top: 60px;
+    margin-left: 0px;
+    margin-right: 0px;
+    float: none;
+  }
 }
 
 small {
@@ -212,78 +235,6 @@ footer {
   position:fixed;
   bottom:50px;
 }
-
-@media print, screen and (max-width: 960px) {
-  
-  div.wrapper {
-    width:auto;
-    margin:0;
-  }
-  
-  header, section, footer {
-    float:none;
-    position:static;
-    width:auto;
-  }
-  
-  header {
-    padding-right:320px;
-  }
-  
-  section {
-    border:1px solid #e5e5e5;
-    border-width:1px 0;
-    padding:20px 0;
-    margin:0 0 20px;
-  }
-  
-  header a small {
-    display:inline;
-  }
-  
-  header ul {
-    position:absolute;
-    right:50px;
-    top:52px;
-  }
-}
-
-@media print, screen and (max-width: 720px) {
-  body {
-    word-wrap:break-word;
-  }
-  
-  header {
-    padding:0;
-  }
-  
-  header ul, header p.view {
-    position:static;
-  }
-  
-  pre, code {
-    word-wrap:normal;
-  }
-}
-
-@media print, screen and (max-width: 480px) {
-  body {
-    padding:15px;
-  }
-  
-  header ul {
-    display:none;
-  }
-}
-
-@media print {
-  body {
-    padding:0.4in;
-    font-size:12pt;
-    color:#444;
-  }
-}
-
 
 /*******************************************************************************
 jQuery Picasa Gallery Styling
