@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/alanhamlett
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://ahamlett.com
+  * I am alanhamlett (https://keybase.io/alanhamlett) on keybase.
+  * I have a public key ASCPberz95E_Qjeo7tz5z_CrJOweHSMw6grgIIFxrVe26Ao
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101b5509345f6a77df9e35e07e7609b379b8e35daa0b4489a363f1c01adc94e90690a",
+            "host": "keybase.io",
+            "kid": "01208f6deaf3f7913f4237a8eedcf9cff0ab24ec1e1d2330ea0ae0208171ad57b6e80a",
+            "uid": "928160559e62a50007206d5cf2865d00",
+            "username": "alanhamlett"
+        },
+        "service": {
+            "hostname": "ahamlett.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.14"
+    },
+    "ctime": 1459701209,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1459700675,
+        "hash": "36a5ff5a15002669ae777ec99ff75f3296c8c8e9c35b59c979055f016969c556bc12cd1fe596fabc67e3703d755d46156e72a5085c5615fe94c164b69692f103",
+        "seqno": 427812
+    },
+    "prev": "2f5e94e8297fe90c4ff00ee27200874d78aa7e4129b53040bc11706cbc41c309",
+    "seqno": 11,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+g6Rib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgj23q8/eRP0I3qO7c+c/wqyTsHh0jMOoK4CCBca1XtugKp3BheWxvYWTFAvd7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxYjU1MDkzNDVmNmE3N2RmOWUzNWUwN2U3NjA5YjM3OWI4ZTM1ZGFhMGI0NDg5YTM2M2YxYzAxYWRjOTRlOTA2OTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwOGY2ZGVhZjNmNzkxM2Y0MjM3YThlZWRjZjljZmYwYWIyNGVjMWUxZDIzMzBlYTBhZTAyMDgxNzFhZDU3YjZlODBhIiwidWlkIjoiOTI4MTYwNTU5ZTYyYTUwMDA3MjA2ZDVjZjI4NjVkMDAiLCJ1c2VybmFtZSI6ImFsYW5oYW1sZXR0In0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJhaGFtbGV0dC5jb20iLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjE0In0sImN0aW1lIjoxNDU5NzAxMjA5LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0NTk3MDA2NzUsImhhc2giOiIzNmE1ZmY1YTE1MDAyNjY5YWU3NzdlYzk5ZmY3NWYzMjk2YzhjOGU5YzM1YjU5Yzk3OTA1NWYwMTY5NjljNTU2YmMxMmNkMWZlNTk2ZmFiYzY3ZTM3MDNkNzU1ZDQ2MTU2ZTcyYTUwODVjNTYxNWZlOTRjMTY0YjY5NjkyZjEwMyIsInNlcW5vIjo0Mjc4MTJ9LCJwcmV2IjoiMmY1ZTk0ZTgyOTdmZTkwYzRmZjAwZWUyNzIwMDg3NGQ3OGFhN2U0MTI5YjUzMDQwYmMxMTcwNmNiYzQxYzMwOSIsInNlcW5vIjoxMSwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEB0kIpjcPYAbBWOoqnXJmj3QhdmE6io8UABiiFeUdoRfn3yqn03AdL1PIoj+LcuqjGjQQNqLYP6B+BkHt/39GwMqHNpZ190eXBlIKN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/alanhamlett
+
+==================================================================
