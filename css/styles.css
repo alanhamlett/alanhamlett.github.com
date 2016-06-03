@@ -1,0 +1,241 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
+
+body {
+  padding:50px;
+  font:16px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color:#000;
+  font-weight:300;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color:#222;
+  margin:0 0 20px;
+}
+
+p, ul, ol, table, pre, dl {
+  margin:0 0 20px;
+}
+
+h1, h2, h3 {
+  line-height:1.1;
+}
+
+h1 {
+  font-size:28px;
+}
+
+h2 {
+  color:#393939;
+}
+
+h3, h4, h5, h6 {
+  color:#494949;
+}
+
+a {
+  color:#1C5AC4;
+  font-weight:400;
+  text-decoration:none;
+}
+
+a small {
+  font-size:11px;
+  color:#1C5AC4;
+  margin-top:-0.6em;
+  display:block;
+}
+
+.wrapper {
+  margin:0 auto;
+}
+
+blockquote {
+    padding: 0 0 0 15px;
+    margin: 0 0 18px;
+    /*border-left: 5px solid #EEE;*/
+}
+
+#chrome-web-store {
+    height: 16px;
+    margin-left: 10px;
+    position: relative;
+    top: 2px;
+}
+
+blockquote p {
+    margin-bottom: 0;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 22.5px;
+}
+
+blockquote small {
+    display: block;
+    line-height: 18px;
+    color: #999;
+}
+
+blockquote small::before {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    content: '— \00A0';
+}
+
+code, pre {
+  font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal;
+  color:#333;
+  font-size:12px;
+}
+
+pre {
+  padding:8px 15px;
+  background: #f8f8f8;  
+  border-radius:5px;
+  border:1px solid #e5e5e5;
+  overflow-x: auto;
+}
+
+pre.gpgkey {
+  font-size:8px;
+  width: 400px;
+}
+@media (max-width: 768px) {
+  pre.gpgkey {
+    width: auto;
+  }
+}
+
+table {
+  width:100%;
+  border-collapse:collapse;
+}
+
+th, td {
+  text-align:left;
+  padding:5px 10px;
+  border-bottom:1px solid #e5e5e5;
+}
+
+dt {
+  color:#444;
+  font-weight:700;
+}
+
+th {
+  color:#444;
+}
+
+img {
+  max-width:100%;
+}
+
+header {
+  width: 270px;
+  float: left;
+  position: fixed;
+}
+
+@media (max-width: 768px) {
+  header {
+    position: relative;
+    float: none;
+    clear: both;
+    width: 100%;
+    display: inline-block;
+  }
+  header img.avatar {
+    padding-right: 10px;
+  }
+  header h1 {
+    display: inline;
+    vertical-align: top;
+  }
+}
+
+header img.avatar {
+  width:170px;
+  height:163px;
+  margin: 0px 0px 20px 0px; /* top right bottom left */
+}
+
+header h3 {
+  margin-left:10px;
+}
+
+header ul {
+  list-style:none;
+  padding:0;
+}
+
+header ul.social-links {
+  width: 170px;
+}
+
+header li {
+  float:left;
+  margin-left:0px;
+  margin-top:0px;
+  margin-right:10px;
+  margin-bottom:10px;
+}
+
+contact {
+  font-size:16px;
+}
+
+barcode img {
+  margin-left:0px;
+  margin-top:10px;
+  margin-right:20px;
+  margin-bottom:0px;
+}
+
+strong {
+  color:#222;
+  font-weight:700;
+}
+
+section {
+  margin-left:340px;
+  margin-right:80px;
+  float:left;
+  padding-bottom:50px;
+}
+
+section h3.first, section h2.first {
+  margin-top:0px;
+}
+
+section h3.not-first, section h2.not-first {
+  margin-top:80px;
+}
+
+section li {
+  margin-bottom:20px;
+}
+
+@media (max-width: 768px) {
+  section {
+    margin-top: 60px;
+    margin-left: 0px;
+    margin-right: 0px;
+    float: none;
+  }
+}
+
+small {
+  font-size:11px;
+}
+
+hr {
+  border:0;
+  background:#e5e5e5;
+  height:1px;
+  margin:0 0 20px;
+}
+
+footer {
+  width:270px;
+  float:left;
+  position:fixed;
+  bottom:50px;
+}
