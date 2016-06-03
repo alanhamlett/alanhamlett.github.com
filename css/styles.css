@@ -197,17 +197,17 @@ strong {
 section {
   margin-left:340px;
   margin-right:80px;
-  float:left;
   padding-bottom:50px;
 }
 
-section h3.first, section h2.first {
-  margin-top:0px;
+section h3, section h2 {
+  margin-top: 80px;
 }
 
-section h3.not-first, section h2.not-first {
-  margin-top:80px;
+section h3.first, section h2.first {
+  margin-top: 0px;
 }
+
 
 section li {
   margin-bottom:20px;
@@ -218,7 +218,6 @@ section li {
     margin-top: 60px;
     margin-left: 0px;
     margin-right: 0px;
-    float: none;
   }
 }
 
@@ -231,11 +230,4 @@ hr {
   background:#e5e5e5;
   height:1px;
   margin:0 0 20px;
-}
-
-footer {
-  width:270px;
-  float:left;
-  position:fixed;
-  bottom:50px;
 }
