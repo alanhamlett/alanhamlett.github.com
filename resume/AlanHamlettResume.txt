@@ -1,0 +1,52 @@
+﻿Alan Hamlett
+A Full-Stack polyglot programmer living in San Francisco, CA.
+	
+
+alan.hamlett@gmail.com
+(650) 434-3510
+ahamlett.com
+	EXPERIENCE
+WakaTime (Python/Flask) - Founder
+https://wakatime.com
+May 2013 - PRESENT   (2 years)
+Built, marketed, and grew the product used by programmers all over the world.
+ZeroCater (Python/Django) - independent contractor
+Jan 2015 - PRESENT   (2 years)
+Python and JavaScript programming.
+Prezi (Python/Django) - software engineer
+Sept 2013 - May 2014   (9 months)
+Full-stack software engineer working on public facing website and internal products.
+WhiteHat Security (Perl) - software engineer
+Aug 2011 - Sept 2013   (2 years)
+Full-stack software engineer working on the SaaS vulnerability scanner and reporting website.
+Texas Instruments (Perl & Lisp) - software engineer
+Aug 2007 - July 2011   (4 years)
+Developed internal tools to improve engineering productivity.
+EDUCATION
+University of Texas at Dallas, B.S. - Computer Science
+Graduated 2010
+	OPEN SOURCE PROJECTS
+* Pip-Update-Requirements (Python)
+Creator & Maintainer
+* https://pypi.python.org/pypi/pur
+* Readtime (Python)
+Creator & Maintainer
+https://pypi.python.org/pypi/readtime
+Flask-Static-Compress (Python)
+Creator & Maintainer
+https://pypi.python.org/pypi/Flask-Static-Compress
+   * Flask-Login (Python)
+Contributor
+https://github.com/maxcountryman/flask-login/commits?author=alanhamlett
+   * Jinja-Assets-Compressor (Python)
+Contributor
+https://github.com/jaysonsantos/jinja-assets-compressor/commits?author=alanhamlett
+(The best-kept-secret Flask extension)
+AWARDS
+Top 5% in JavaScript
+StackOverflow
+2k+ Followers
+GitHub
+EVENTS
+San Francisco Flask Meetup Group
+Founder & Organizer
