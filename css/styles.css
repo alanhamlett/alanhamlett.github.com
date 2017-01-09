@@ -45,6 +45,10 @@ a small {
   display:block;
 }
 
+a:hover {
+  text-decoration: hover;
+}
+
 .wrapper {
   margin:0 auto;
 }
