@@ -46,7 +46,7 @@ a small {
 }
 
 a:hover {
-  text-decoration: hover;
+  text-decoration: underline;
 }
 
 .wrapper {
