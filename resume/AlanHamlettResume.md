@@ -56,13 +56,13 @@ Developed internal tools to improve engineering productivity.
 ### [San Francisco Flask Meetup Group][sf flask meetup] *Founder & Organizer*
 
 
-[personal website]: http://ahamlett.com
+[personal website]: https://ahamlett.com
 [wakatime]: https://wakatime.com
 [pur]: https://pypi.python.org/pypi/pur
 [readtime]: https://pypi.python.org/pypi/readtime
 [flask-static-compress]: https://pypi.python.org/pypi/Flask-Static-Compress
 [flask-login]: https://github.com/maxcountryman/flask-login/commits?author=alanhamlett
 [jac]: https://github.com/jaysonsantos/jinja-assets-compressor/commits?author=alanhamlett
-[stackoverflow]: http://stackoverflow.com/users/story/1290627
+[stackoverflow]: https://stackoverflow.com/users/story/1290627
 [github]: https://github.com/alanhamlett?tab=followers
 [sf flask meetup]: https://www.meetup.com/The-San-Francisco-Flask-Meetup-Group/

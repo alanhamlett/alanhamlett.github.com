@@ -1,5 +1,5 @@
 ## Alan Hamlett's Page
-This is the source code for my personal GitHub page at <http://ahamlett.com>.
+This is the source code for my personal GitHub page at <https://ahamlett.com>.
 
 ### Steps To Create Your Own Personal Page
 
