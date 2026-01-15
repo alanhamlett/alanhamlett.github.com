@@ -4,7 +4,6 @@ body {
   padding:50px;
   font:16px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#000;
-  font-weight:300;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -92,7 +91,7 @@ code, pre {
 
 pre {
   padding:8px 15px;
-  background: #f8f8f8;  
+  background: #f8f8f8;
   border-radius:5px;
   border:1px solid #e5e5e5;
   overflow-x: auto;
